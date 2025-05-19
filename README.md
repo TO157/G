@@ -1,4 +1,4 @@
-# Lute Sandbox & Showcase Environment
+# Lute and Luau Sandbox & Showcase Environment
 
 ## Concept
 
